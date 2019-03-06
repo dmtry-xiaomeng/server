@@ -44,7 +44,6 @@ use OCP\AppFramework\App;
 use OCP\Defaults;
 use OCP\IContainer;
 use OCP\IGroup;
-use OCP\ILogger;
 use OCP\IUser;
 use OCP\Settings\IManager;
 use OCP\Util;
